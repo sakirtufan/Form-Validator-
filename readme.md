@@ -9,14 +9,14 @@ Simple client side form validation. Check requird, length, email and password ma
 
 ## Project Specifications
 
-- [x]Create form UI
-- [x]Show error messages under specific inputs
-- [x]checkRequired() to accept array of inputs
-- [x]checkLength() to check min and max length
-- [x]checkEmail() to validate email with regex
-- [x]checkPasswordsMatch() to match confirm password
+- Create form UI
+- Show error messages under specific inputs
+- checkRequired() to accept array of inputs
+- checkLength() to check min and max length
+- checkEmail() to validate email with regex
+- checkPasswordsMatch() to match confirm password
 
 
-GitHub supports emoji!
+
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
